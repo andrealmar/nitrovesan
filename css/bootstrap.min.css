@@ -1029,9 +1029,9 @@ html {
 }
 body {
 	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
-	font-size:14px;
-	line-height:1.42857143;
-	color:#333;
+	font-size:16px;
+	line-height:2.42857143;
+	color:#555;
 	background-color:#fff
 }
 button,input,select,textarea {
@@ -1040,7 +1040,7 @@ button,input,select,textarea {
 	line-height:inherit
 }
 a {
-	color:#337ab7;
+	color:#555;
 	text-decoration:none
 }
 a:focus,a:hover {
